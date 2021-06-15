@@ -32,7 +32,7 @@ University of California-Berkeley,29
 Georgetown University,21
 Rensselaer Polytechnic Institute,121
 Worcester Polytechnic Institute,104
-Georgia Institute of Technology-Main Campus,81
+Georgia Institute of Technology,81
 University of Notre Dame,26
 California State University Maritime Academy,
 Clarkson University,168
@@ -41,13 +41,13 @@ Swarthmore College,19
 Rose-Hulman Institute of Technology,116
 Bates College,35
 University of California-San Diego,93
-Columbia University in the City of New York,14
+Columbia University,14
 Bucknell University,55
 Virginia Military Institute,177
 Wabash College,214
 "Union College - Schenectady, NY",
 Cooper Union for the Advancement of Science and Art,62
-Cornell University,15
+Cornell University-Ithaca,15
 Lafayette College,56
 Amherst College,17
 Yeshiva University,75
@@ -85,7 +85,7 @@ Loyola Marymount University,136
 Villanova University,73
 Illinois Institute of Technology,207
 Bentley University,119
-Loyola University Maryland,145
+Loyola University-baltimore,145
 Brandeis University,99
 Menlo College,
 Pomona College,10
@@ -97,7 +97,7 @@ Northwestern University,28
 Embry-Riddle Aeronautical University-Prescott,275
 Middlebury College,39
 Franklin and Marshall College,92
-Texas A & M University-College Station,
+Texas A&M University-main campus,
 Johns Hopkins University,30
 Missouri University of Science and Technology,246
 College of William and Mary,58
@@ -124,7 +124,7 @@ Stony Brook University,187
 University of Washington-Seattle Campus,79
 San Jose State University,319
 Trinity College,84
-Tulane University of Louisiana,123
+Tulane University,123
 Wittenberg University,340
 Southern Methodist University,98
 California State Polytechnic University-Pomona,349
@@ -140,7 +140,7 @@ Oberlin College,53
 Michigan Technological University,266
 University of California-Riverside,259
 University of Rochester,85
-The University of Texas at Austin,91
+University of Texas-Austin,91
 University of Maryland-College Park,72
 Capitol Technology University,
 Hamilton College,65
@@ -189,7 +189,7 @@ California State University-Chico,342
 St. John's College,
 Lake Forest College,330
 Albion College,307
-North Carolina State University at Raleigh,155
+North Carolina State University,155
 Dickinson College,118
 James Madison University,125
 New York Institute of Technology,
@@ -223,7 +223,7 @@ Ursinus College,252
 University of Massachusetts-Amherst,226
 Coleman University,
 Connecticut College,105
-University of Connecticut,124
+University of Connecticut-Main Campus,124
 University of Maryland-Baltimore County,268
 University of Puerto Rico-Mayaguez,
 Polytechnic University of Puerto Rico-Miami,
@@ -372,11 +372,11 @@ Sonoma State University,410
 St Bonaventure University,
 University of Mary Washington,276
 Pennsylvania State University-Penn State Harrisburg,
-University of Miami,97
+University of Miami - Florida,97
 Suffolk University,
 Ohio State University-Main Campus,131
 University of Arkansas,283
-Colorado State University-Fort Collins,
+Colorado State University,
 Thomas Jefferson University,
 Illinois Wesleyan University,197
 Taylor University,222
@@ -1507,10 +1507,3 @@ Claflin University,
 Philander Smith College,
 Shaw University,
 Mississippi Valley State University,
-,
-,
-,
-,
-,
-,
-,
